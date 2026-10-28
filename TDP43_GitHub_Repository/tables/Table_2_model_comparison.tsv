@@ -1,0 +1,4 @@
+Model	Design	Genes_with_adjusted_P	FDR_significant_genes	Lower_in_TDP43_loss	Higher_in_TDP43_loss	FDR_and_abs_LFC_at_least_1
+status_only	~ nuclear_status	34306	1295	823	472	1027
+diagnosis_adjusted	~ diagnosis + nuclear_status	34345	1495	944	551	1131
+donor_aware	~ donor + nuclear_status	30506	3442	1865	1577	1528

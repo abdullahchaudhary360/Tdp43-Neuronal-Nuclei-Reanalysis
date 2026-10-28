@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this analysis code, please cite the accompanying preprint and the original GSE126542 study."
+title: "Donor-aware reanalysis of neuronal nuclei supports STMN2 depletion associated with nuclear TDP-43 loss in FTD and FTD–ALS"
+type: software
+version: 1.0.0
+date-released: 2026-10-28
+authors:
+  - family-names: Chaudhary
+    given-names: Abdullah
+    affiliation: "Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China"
+    email: yaosaiqisky@icloud.com
+  - name: Yao
+notes: "Secondary analysis of GSE126542. The configurable FASTQ workflow was not executed for the reported count-based results."

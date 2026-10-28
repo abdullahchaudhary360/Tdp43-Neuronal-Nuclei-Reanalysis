@@ -1,0 +1,20 @@
+{
+  "genes": 62754,
+  "libraries": 12,
+  "all_zero_genes": 10564,
+  "assigned_min": 18584661,
+  "assigned_median": 24343171.0,
+  "assigned_max": 29152965,
+  "matrix_matches_featureCounts_Assigned": true,
+  "donors": 7,
+  "complete_pair_donors": 5,
+  "minimum_total_count_per_gene": 10,
+  "pydeseq2_version": "0.5.4",
+  "python_version": "3.12.12",
+  "input_sha256": {
+    "counts_matrix.txt": "b21f38d7ceb9be1c290b8e809af18be2fee4cc28919f1af6064c0eeb3b1decdc",
+    "raw_counts.txt.summary": "5c1f87eb3591305313c800ef792f695a65070909629e50060687abc5b27e9649",
+    "metadata_verified.csv": "801eb454979465121d507e2fd270b4d3f33f019c491d7a186ebeddb7e3caa596"
+  },
+  "genes_after_filter": 44225
+}

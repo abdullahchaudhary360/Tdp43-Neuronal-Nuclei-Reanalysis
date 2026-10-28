@@ -1,0 +1,8 @@
+Donor	Diagnosis	Sex	TDP43_retained_library	TDP43_loss_library	Pairing_status
+S1	FTD	Female	SRR8571937	SRR8571938	Complete pair
+S2	FTD-ALS	Male	SRR8571939	SRR8571940	Complete pair
+S3	FTD	Female	SRR8571941	SRR8571942	Complete pair
+S4	FTD	Female	SRR8571944	—	Retained only
+S5	FTD	Male	—	SRR8571948	Loss only
+S6	FTD-ALS	Male	SRR8571949	SRR8571950	Complete pair
+S7	FTD-ALS	Male	SRR8571951	SRR8571952	Complete pair

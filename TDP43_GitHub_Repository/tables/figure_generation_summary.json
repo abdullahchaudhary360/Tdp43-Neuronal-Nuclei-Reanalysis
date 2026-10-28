@@ -1,0 +1,10 @@
+{
+  "contrast": "nuclear_TDP43_loss_minus_retained",
+  "libraries": 12,
+  "donors": 7,
+  "complete_pairs": 5,
+  "STMN2_percent_lower_in_loss": 71.53356149042358,
+  "UNC13A_percent_change_in_loss": 29.42224390823145,
+  "figures_generated": 8,
+  "splicing_or_PSI_estimated": false
+}

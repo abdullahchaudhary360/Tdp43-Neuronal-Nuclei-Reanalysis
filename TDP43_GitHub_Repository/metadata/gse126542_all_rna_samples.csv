@@ -1,0 +1,17 @@
+Sample,Title,Gender,Diagnosis,TDP43,Cell_type
+SRR8571937,RNA-Seq - NeuN positive/TDP-43 positive S1,female,FTD,TDP-43 positive,NeuN positive
+SRR8571938,RNA-Seq - NeuN positive/TDP-43 negative S1,female,FTD,TDP-43 negative,NeuN positive
+SRR8571939,RNA-Seq - NeuN positive/TDP-43 positive S2,male,FTD-ALS,TDP-43 positive,NeuN positive
+SRR8571940,RNA-Seq - NeuN positive/TDP-43 negative S2,male,FTD-ALS,TDP-43 negative,NeuN positive
+SRR8571941,RNA-Seq - NeuN positive/TDP-43 positive S3,female,FTD,TDP-43 positive,NeuN positive
+SRR8571942,RNA-Seq - NeuN positive/TDP-43 negative S3,female,FTD,TDP-43 negative,NeuN positive
+SRR8571943,RNA-Seq - Unsorted S3,female,FTD,,unsorted
+SRR8571944,RNA-Seq - NeuN positive/TDP-43 positive S4,female,FTD,TDP-43 positive,NeuN positive
+SRR8571945,RNA-Seq - NeuN positive/TDP-43 negative S4,female,FTD,TDP-43 negative,NeuN positive
+SRR8571946,RNA-Seq - Unsorted S4,female,FTD,,unsorted
+SRR8571947,RNA-Seq - NeuN positive/TDP-43 positive S5,male,FTD,TDP-43 positive,NeuN positive
+SRR8571948,RNA-Seq - NeuN positive/TDP-43 negative S5,male,FTD,TDP-43 negative,NeuN positive
+SRR8571949,RNA-Seq - NeuN positive/TDP-43 positive S6,male,FTD-ALS,TDP-43 positive,NeuN positive
+SRR8571950,RNA-Seq - NeuN positive/TDP-43 negative S6,male,FTD-ALS,TDP-43 negative,NeuN positive
+SRR8571951,RNA-Seq - NeuN positive/TDP-43 positive S7,male,FTD-ALS,TDP-43 positive,NeuN positive
+SRR8571952,RNA-Seq - NeuN positive/TDP-43 negative S7,male,FTD-ALS,TDP-43 negative,NeuN positive

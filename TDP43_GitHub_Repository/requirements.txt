@@ -1,0 +1,8 @@
+numpy==2.2.5
+pandas==2.3.2
+scipy==1.16.2
+scikit-learn==1.7.2
+matplotlib==3.10.3
+Pillow==13.0.0
+requests==2.32.3
+pydeseq2==0.5.4
